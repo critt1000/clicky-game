@@ -1,3 +1,9 @@
+# Needs
+A win state when a user clicks all the images succesfully to end game
+
+# Possible additional features to add
+Could possibly add after you perfectly click thru the pictures; set a timer to show cards then flips them or add multiple data sets of different images.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
